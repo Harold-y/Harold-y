@@ -26,9 +26,20 @@
 - ⚡ Fun fact: 绘画曾是我小时候的爱好之一，我还得过国际的儿童绘画奖。
 
 ### Favorite:
-`System.out.println("Hello World!");`
+```System.out.println("Hello World!");```
+```
+@MapperScan("org.chengbing.dao")
+@SpringBootApplication
+public class MarketPlatformApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(MarketPlatformApplication.class, args);
+    }
+
+}
+```
 > 从入门到入土
-> 虽在白昼尽头，智者自知该踏上旅途
+
 
 ### 思想
 #### 美丽新世界
@@ -39,9 +50,13 @@
 >“龙门的悲剧使得感染者的处境更加恶劣。浮士德和霜星的永眠给这场战斗增添了悲剧的色彩。在了解到了梅菲斯特、浮士德和霜星的身世后不由为他们的经历而难过，为他们的失败感到惋惜。在这个泰拉的世界上，也许没有绝对的对错，又或许，错的是这个世界。”
 #### 远航
 >我向我的家乡和父母道别，踏上远航的道路。这条路绵延至远方，远到似乎有庐山的云气遮掩了它的全貌，它的延续，让冒险者极目远眺也如水中捞月。是的，那是一艘船。但它又不局限为船。也许是航空器，又或是一场几万公里的一号公路自由行。但无论它的现在或是将来搭载不同的形式，它是在这里开始的。
+
 >又一次踏入香港的土地，熟悉又陌生。山旁的高楼，如集群般伫立，飞机成群结队汇聚于此。板凳上坐着的，不知是焦虑的同学还是迷失的路人。
+
 >它确实经过了加拿大领空，正如它在几个（也许十余个）小时前经过日本领空一样。脚下的暂时是不列颠哥伦比亚省的土地，祝愿我最好的同学在不列颠哥伦比亚大学的学业顺利。有时候我就在想"What if"。如果我早一年考完AP也申请UBC，那现在会是如何？如果我选择了滑铁卢大学数学的录取，我还会使今天启程么？想法无穷无尽，但大多都是毫无意义的，因为时光正如DAG那般antisymmetric。
 
+#### 不要温和地走进那个良夜
+> 虽在白昼尽头，智者自知该踏上旅途
 <!--
 **Harold-y/Harold-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

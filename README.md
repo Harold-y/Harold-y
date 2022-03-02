@@ -38,8 +38,16 @@ public class MarketPlatformApplication {
 
 }
 ```
-> 从入门到入土
+```从入门到入土```
 
+### Recent Province / State I Visited:
+- Wisconsin
+- Illinois
+- Zhejiang
+- Shanghai
+- Beijing
+- Hong Kong
+- California
 
 ### 思想
 #### 美丽新世界
@@ -57,6 +65,10 @@ public class MarketPlatformApplication {
 
 #### 不要温和地走进那个良夜
 > 虽在白昼尽头，智者自知该踏上旅途
+
+#### 何博士
+>随其手也，千百家庭得以绝处逢生：随其笔也，沉溺之身攀上救命方舟；随其声也，域外人士惊识中华文明；随其形也，离乱生命重建人世信心 - 余秋雨
+
 <!--
 **Harold-y/Harold-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

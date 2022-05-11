@@ -26,7 +26,7 @@
 ### Something about Myself :
 - 🔭 I’m currently working on getting a degree on CS and DS
 - 🌱 I’m currently learning R, Python, Algorithms, and Statistics
-- ⚡ Fun fact: 绘画曾是我小时候的爱好之一，我还得过国际的儿童绘画奖。
+- ⚡ Fun fact: drawing was one of my hobbies during childhood and I got an international children award for drawing.
 
 ### 思想
 <details>

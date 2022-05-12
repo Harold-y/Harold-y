@@ -6,17 +6,17 @@ Java, Python, R, MySQL, Redis, HTML, CSS, JavaScript, C, Nginx, Linux Server
 
 ### Frameworks I Preferred
 <div style = "display:inline">
- <img src="https://user-images.githubusercontent.com/68500948/156462434-efd807d1-66a0-4634-9425-ca281374105f.png" width="78">
- <img src="https://user-images.githubusercontent.com/68500948/156462536-f66cf466-5c64-434d-8a5d-1e69608ed8c5.png" style="border-radius: 30px;" width="78">
- <img src="https://user-images.githubusercontent.com/68500948/156462845-6f78c857-e9e5-4562-a55e-f18b8560df6b.png" style="border-radius: 30px;" width="78">
- <img src="https://user-images.githubusercontent.com/68500948/156462790-028ede58-6be5-4f23-a04a-e3721870c209.png" style="border-radius: 30px;" width="78">
+ <img src="https://user-images.githubusercontent.com/68500948/156462434-efd807d1-66a0-4634-9425-ca281374105f.png" width="50">
+ <img src="https://user-images.githubusercontent.com/68500948/156462536-f66cf466-5c64-434d-8a5d-1e69608ed8c5.png" style="border-radius: 30px;" width="50">
+ <img src="https://user-images.githubusercontent.com/68500948/156462845-6f78c857-e9e5-4562-a55e-f18b8560df6b.png" style="border-radius: 30px;" width="50">
+ <img src="https://user-images.githubusercontent.com/68500948/156462790-028ede58-6be5-4f23-a04a-e3721870c209.png" style="border-radius: 30px;" width="50">
  </div>
 
 ### Something about Myself :
 - 🔭 I’m currently working on getting a degree on CS and DS
 - 🌱 I’m currently learning R, Python, Algorithms, and Statistics
 - ⚡ Fun fact: drawing was one of my hobbies during childhood and I got an international children award for drawing.
-- 
+
 <hr class="dashed">
 
 ### 思想

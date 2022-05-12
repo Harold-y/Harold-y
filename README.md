@@ -2,7 +2,7 @@
 ```System.out.println("Hello World!");```
 
 ### Skills
-Java, Python, R, MySQL, Redis, HTML, CSS, JavaScript, C, Nginx, Linux Server
+Java, Python, R, MySQL, Redis, HTML, CSS, JavaScript, C, Nginx, Linux Server, League of Legends (not particularly a CS skill :) )
 
 ### Frameworks I Preferred
 <div style = "display:inline">

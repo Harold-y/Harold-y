@@ -16,7 +16,7 @@ Java, Python, R, MySQL, Redis, HTML, CSS, JavaScript, C, Nginx, Linux Server
 - 🔭 I’m currently working on getting a degree on CS and DS
 - 🌱 I’m currently learning R, Python, Algorithms, and Statistics
 - ⚡ Fun fact: drawing was one of my hobbies during childhood and I got an international children award for drawing.
-
+<hr class="dashed">
 ### 思想
 <details>
   <summary>Thinking</summary>

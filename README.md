@@ -1,19 +1,8 @@
 ### Hi there 👋
 ```System.out.println("Hello World!");```
 
-<details>
-  <summary>Path with CS</summary>
-  <div style = "display:inline">
-<img src="https://user-images.githubusercontent.com/68500948/156461078-32c45a0a-c0fb-4492-b58c-1cfdad9f8e52.png" width="78">
-<img src="https://user-images.githubusercontent.com/68500948/156462139-ff80742a-7aaf-4997-9aae-28a1e3c7cb04.png" width="78">
-<img src="https://user-images.githubusercontent.com/68500948/156461171-821ad31b-25cc-4d2e-9ca5-67daf392a0df.png" width="78">
-<img src="https://user-images.githubusercontent.com/68500948/156461211-0b622294-40b8-43df-9297-351b25797a09.png" width="78">
-<img src="https://user-images.githubusercontent.com/68500948/156461225-81ebbf14-f31a-4d1f-b632-dcc813435e19.png" width="78">
-<img src="https://user-images.githubusercontent.com/68500948/156461248-8a4500da-e745-4760-82d2-a85deedcc12e.png" width="78">
-<img src="https://user-images.githubusercontent.com/68500948/156461264-2adbbf3a-2648-4b09-9b52-6abfc372cac8.png" width="78">
- </div>
-</details>
-
+### Skills
+Java, Python, R, MySQL, Redis, HTML, CSS, JavaScript, C, Nginx, Linux Server
 
 ### Frameworks I Preferred
 <div style = "display:inline">

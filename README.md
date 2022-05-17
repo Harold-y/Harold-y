@@ -19,6 +19,8 @@ Java, Python, R, MySQL, Redis, HTML, CSS, JavaScript, C, Nginx, Linux Server, Le
 
 <hr class="dashed">
 
+> 當初穿林拂葉見識得 白衣少年膽怯幾分
+
 ### 思想
 <details>
   <summary>Thinking</summary>

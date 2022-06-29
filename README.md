@@ -38,6 +38,7 @@
  <img src="https://user-images.githubusercontent.com/68500948/156462845-6f78c857-e9e5-4562-a55e-f18b8560df6b.png" style="border-radius: 30px;" width="50">
  <img src="https://user-images.githubusercontent.com/68500948/156462790-028ede58-6be5-4f23-a04a-e3721870c209.png" style="border-radius: 30px;" width="50">
  </div>
+ 
 ### Something about Myself :
 - 🔭 I’m currently working on getting a degree on CS and DS
 - 🌱 I’m currently learning R, Python, Algorithms, and Statistics

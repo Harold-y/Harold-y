@@ -1,6 +1,7 @@
 ### Hi there 👋
+Hello!我是Harold，你也可以叫我澂冰，阿冰，冰哥。我是一名全栈偏后端开发者，也会使用常见的Py CNN框架以及R或Python进行数据处理。目前在UW-Madison上学。欢迎关注！
 ```System.out.println("Hello World!");```<br>
-```System.out.println("晚夜微雨問海棠 用地久天長");```
+```System.out.println("滄海月明珠有淚，藍田日暖玉生煙。");```
 
 ### Skills
 #### Common

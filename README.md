@@ -50,6 +50,8 @@ Hello! 我是Harold，你也可以叫我澂冰，阿冰，冰哥。我是一名�
 - 🌱 I’m currently learning R, Python, Algorithms, and Statistics
 - ⚡ Fun fact: drawing was one of my hobbies during childhood and I got an international children award for drawing.
 
+Contact: williamdlye@outlook.com
+
 <!--
 **Harold-y/Harold-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

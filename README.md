@@ -47,7 +47,7 @@ Hello! 我是Harold，你也可以叫我澂冰，阿冰，冰哥。我是一名�
  
 ### Something about Myself :
 - 🔭 I’m currently working on getting a degree on CS and DS
-- 🌱 I’m currently learning R, Python, Algorithms, and Statistics
+- 🌱 I’m currently working with Dell Inc.
 - ⚡ Fun fact: drawing was one of my hobbies during childhood and I got an international children award for drawing.
 
 Contact: williamdlye@outlook.com

@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 你好！
 Hello! 我是Harold，你也可以叫我澂冰，阿冰，冰哥。我是一名全栈偏后端开发者，也会使用常见的Py CNN框架以及R (Tidyverse) 或Python (NumPy, Pandas, etc.)进行数据处理。最喜欢的语言是Java，目前在UW-Madison上学。欢迎关注！<br><br>
+
+English Ver. of Intro.
+<details>
+Hello! My name is HaroldCI. I am a full-stack (preferrably backend) developer. Besides web dev, I can also use data science frameworks like pytorch, tidyverse, numpy, pandas, etc. to process data or do deep learning. My favorite language is Java. I am now a junior at UW-Madison (a great university!). Welcome to my home page and I appreciate your follow and stars!
+</details>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harold-y)
 

@@ -1,8 +1,11 @@
 ### Hi there 👋
 Hello! 我是Harold，你也可以叫我澂冰，阿冰，冰哥。我是一名全栈偏后端开发者，也会使用常见的Py CNN框架以及R (Tidyverse) 或Python (NumPy, Pandas, etc.)进行数据处理。最喜欢的语言是Java，目前在UW-Madison上学。欢迎关注！<br><br>
-```System.out.println("Hello World!");```<br>
-```System.out.println("滄海月明珠有淚，藍田日暖玉生煙。");```
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harold-y)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harold-y)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
 ### Skills
 #### Common
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -36,6 +39,7 @@ Hello! 我是Harold，你也可以叫我澂冰，阿冰，冰哥。我是一名�
  #### Other
  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+-->
 
 ### Frameworks I Preferred
 <div style = "display:inline">

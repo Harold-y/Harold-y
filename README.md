@@ -56,7 +56,7 @@ Hello! My name is HaroldCI. I am a full-stack (preferrably backend) developer. B
  
 ### Something about Myself :
 - 🔭 I’m currently working on getting a degree on CS and DS
-- 🌱 I’m currently working with Dell Inc.
+- 🌱 I’m currently working with Dell Inc. and learning CI/CD with cloud/microservices
 - ⚡ Fun fact: drawing was one of my hobbies during childhood and I got an international children award for drawing.
 
 <!--

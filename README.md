@@ -6,7 +6,7 @@ English Ver. of Intro.
 Hello! My name is HaroldCI. I am a full-stack (preferrably backend) developer. Besides web dev, I can also use data science frameworks like pytorch, tidyverse, numpy, pandas, etc. to process data or do deep learning. My favorite language is Java. I am now a junior at UW-Madison (a great university!). Welcome to my home page and I appreciate your follow and stars!
 </details>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harold-y&hide=stars)
+![Harold's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harold-y&hide=stars)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harold-y&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -56,7 +56,7 @@ Hello! My name is HaroldCI. I am a full-stack (preferrably backend) developer. B
  
 ### Something about Myself :
 - 🔭 I’m currently working on getting a degree on CS and DS
-- 🌱 I've worked with Dell Inc. and learned CI/CD & cloud/microservices
+- 🌱 I've worked with CARLA of UW-Madison
 - ⚡ Fun fact: drawing was one of my hobbies during childhood and I got an international children award for drawing.
 
 <!--

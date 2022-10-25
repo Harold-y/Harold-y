@@ -1,5 +1,5 @@
 ### Hi there 👋 你好！
-Hello! 我是Harold，你也可以叫我澂冰，阿冰，冰哥。我是一名全栈偏后端开发者，也会使用常见的Py CNN框架以及R (Tidyverse) 或Python (NumPy, Pandas, etc.)进行数据处理。最喜欢的语言是Java，目前在UW-Madison上学。欢迎关注！<br><br>
+Hello! 我是Harold，你也可以叫我澂冰，阿冰，冰哥。我是一名全栈偏后端开发者，也会使用常见的Py CNN框架以及R (Tidyverse) 或Python (NumPy, Pandas, etc.)进行数据处理。对机器学习和统计学有所研究。最喜欢的语言是Java，也喜欢Python和R。目前在UW-Madison上学。欢迎关注！<br><br>
 
 English Ver. of Intro.
 <details>

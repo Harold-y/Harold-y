@@ -2,7 +2,7 @@
 Hello! My name is HaroldCI (other names include Harold澂冰, Harold-y, Harold Ye, etc.). I am a full-stack (preferrably backend) developer. Besides web dev, I can also use data science frameworks like pytorch, tidyverse, numpy, pandas, etc. to process data or do deep learning. My favorite language is Java. I also like Python and R. I am now a junior at UW-Madison (a great university!). Welcome to my home page and I appreciate your follow and stars!<br><br>
 
 中文<br>
-你好! 我是Harold，你也可以叫我澂冰，阿冰，冰哥。学生，开发者。会全栈开发，算法，数据处理，机器学习，统计学。最喜欢的语言是Java，也喜欢Python和R。目前在UW-Madison上学。欢迎关注！
+你好! 我是Harold，你也可以叫我澂冰，阿冰，冰哥。学生，开发者。会全栈开发，算法，数据处理，机器学习，统计学，计算机网络。最喜欢的语言是R，也喜欢Python和Java。目前在UW-Madison上学。欢迎关注！
 
 
 ![Harold's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harold-y&hide=stars)

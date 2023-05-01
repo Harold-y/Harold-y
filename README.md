@@ -57,7 +57,7 @@ Hello! My name is HaroldCI (other names include Harold澂冰, Harold-y, Harold Y
 <details>
 
 - 🔭 I’m currently working on getting a degree on CS and DS
-- 🌱 I'm working with CARLA of UW-Madison
+- 🌱 I'm will be an intern at Dell in the following summer
 - ⚡ Fun fact: drawing was one of my hobbies during childhood and I got an international children award for drawing.
 </details>
 <!--

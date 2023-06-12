@@ -56,11 +56,13 @@ Hello! My name is HaroldCI (other names include Harold澂冰, Harold Ye, etc.). 
  
 ### Something about Myself :
 <details>
+ 
 - 🔭 I’m currently working on getting a degree on CS and DS
 - 🌱 I'm an intern at Dell in the this summer
 - ⚡ Fun fact: drawing was one of my hobbies during childhood and I got an international children award for drawing.
  
  ![Harold's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harold-y&hide=stars)
+ 
 </details>
 <!--
 **Harold-y/Harold-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

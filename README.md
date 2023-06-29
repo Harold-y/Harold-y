@@ -1,8 +1,8 @@
 ### Hi there 👋 你好！
-Hello! My name is Harold. I am a full stack developer, CS & DS undergraduate, and a Dell intern. I can also use data science frameworks like Pytorch, Tidyverse, Numpy, Pandas, etc. to process data or do deep learning. My favorite language is Java. I also like Python and R. I am now a senior at UW-Madison (a great university!). Welcome to my home page and I appreciate your follow and stars!<br><br>
+Hello! My name is Harold. Full stack developer, CS & DS undergraduate at UW-Madison, Dell intern, creator & member of <a href="https://github.com/WiscWebGroup">WiscWebGroup</a>. My favorite language is Java. I also like Python and R. Welcome and I appreciate your follow and stars!<br><br>
 
 中文<br>
-你好! 我是Harold，你也可以叫我阿冰。学生，开发者。会全栈开发，算法，数据处理，机器学习，统计学，计算机网络。最喜欢的语言是Java，也喜欢Python和R。目前在UW-Madison上学。欢迎关注！
+你好! 我是Harold，你也可以叫我阿冰。学生，开发者，戴尔实习生，@<a href="https://github.com/WiscWebGroup">WiscWebGroup</a>联合创建者。会全栈开发，算法，数据处理，机器学习，统计学，计算机网络。最喜欢的语言是Java，也喜欢Python和R。目前在UW-Madison上学。欢迎关注！
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harold-y&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -4,8 +4,6 @@ Hello! My name is Harold. Full stack developer, CS & DS undergraduate at UW-Madi
 中文<br>
 你好! 我是Harold，你也可以叫我阿冰。学生，开发者，戴尔实习生，@<a href="https://github.com/WiscWebGroup">WiscWebGroup</a>联合创建者。会全栈开发，算法，数据处理，机器学习，统计学，计算机网络。最喜欢的语言是Java，也喜欢Python和R。目前在UW-Madison上学。欢迎关注！
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harold-y&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 - Language used: Java, Python, R, JavaScript, C, GoLang, SQL, C++, HTML, CSS, TypeScript
 - Frameworks:  Spring Boot, Spring Cloud, Tidyverse, Numpy, Pandas, PyTorch, React, Vue, JQuery, Gin
 - Tools:  MySQL, Redis, Docker, Git, SQLite, Nginx, Jenkins, Linux, Maven, Mybatis, Vault, Node.js, PostgreSQL
@@ -60,6 +58,9 @@ Hello! My name is Harold. Full stack developer, CS & DS undergraduate at UW-Madi
 - 🔭 I’m currently working on getting a degree on CS and DS
 - 🌱 I'm an intern at Dell in the this summer
 - ⚡ Fun fact: drawing was one of my hobbies during childhood and I got an international children award for drawing.
+
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harold-y&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
  ![Harold's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harold-y&hide=stars)
  

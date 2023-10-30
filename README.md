@@ -1,8 +1,8 @@
 ### Hi there 👋 你好！
-Hello! My name is Harold. Full stack developer, CS & DS undergraduate at UW-Madison, Dell intern, creator & member of <a href="https://github.com/WiscWebGroup">WiscWebGroup</a>. My favorite language is Java. I also like Python and R. Welcome and I appreciate your follow and stars!<br><br>
+Hello! My name is Harold. Full stack developer, CS & DS undergraduate at UW-Madison, Former Dell intern, future employee; creator & member of <a href="https://github.com/WiscWebGroup">WiscWebGroup</a>. My favorite language is Java. I also like Python and R. Welcome and I appreciate your follow and stars!<br><br>
 
 中文<br>
-你好! 我是Harold，你也可以叫我阿冰。学生，开发者，戴尔实习生，@<a href="https://github.com/WiscWebGroup">WiscWebGroup</a>联合创建者。会全栈开发，算法，数据处理，机器学习，统计学，计算机网络。最喜欢的语言是Java，也喜欢Python和R。目前在UW-Madison上学。欢迎关注！
+你好! 我是Harold，你也可以叫我阿冰。学生，开发者，戴尔前实习生，未来员工@<a href="https://github.com/WiscWebGroup">WiscWebGroup</a>联合创建者。会全栈开发，算法，数据处理，机器学习，统计学，计算机网络。最喜欢的语言是Java，也喜欢Python和R。目前在UW-Madison上学。欢迎关注！
 
 - Language used: Java, Python, R, JavaScript, C, GoLang, SQL, C++, HTML, CSS, TypeScript
 - Frameworks:  Spring Boot, Spring Cloud, Tidyverse, Numpy, Pandas, PyTorch, React, Vue, JQuery, Gin
@@ -56,7 +56,7 @@ Hello! My name is Harold. Full stack developer, CS & DS undergraduate at UW-Madi
 <details>
  
 - 🔭 I’m currently working on getting a degree on CS and DS
-- 🌱 I'm an intern at Dell in the this summer
+- 🌱 I will be working for Dell after graduation
 - ⚡ Fun fact: drawing was one of my hobbies during childhood and I got an international children award for drawing.
 
 

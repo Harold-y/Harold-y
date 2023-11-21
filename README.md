@@ -8,6 +8,7 @@ Hello! My name is Harold. Full stack developer, CS & DS undergraduate at UW-Madi
 - Frameworks:  Spring Boot, Spring Cloud, Tidyverse, Numpy, Pandas, PyTorch, React, Vue, JQuery, Gin
 - Tools:  MySQL, Redis, Docker, Git, SQLite, Nginx, Jenkins, Linux, Maven, Mybatis, Vault, Node.js, PostgreSQL
 
+Contact: harold-ye (shift + 2) outlook.com
 <!--
 ### Skills
 #### Common

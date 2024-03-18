@@ -1,7 +1,6 @@
 ### Hi there 👋 你好！
 Hello! My name is Harold. Full stack developer, BS (Computer Science & Data Science) from UW-Madison, Former Dell intern; creator & member of <a href="https://github.com/WiscWebGroup">WiscWebGroup</a>. Currently working in (hacked) company. I know full-stack development, algorithms, data processing, machine learning, statistics, and computer networks. I also know a little bit about information security and computer graphics. My favorite language is Java. I also like Python and R. Welcome and I appreciate your follow and stars!<br><br>
 
-中文<br>
 你好! 我是Harold，你也可以叫我阿冰。威斯康星大学麦迪逊分校学士，开发者，戴尔前实习生，@<a href="https://github.com/WiscWebGroup">WiscWebGroup</a>联合创建者。目前是在 (数据被清除) 公司工作。会全栈开发，算法，数据处理，机器学习，统计学，计算机网络；有一点信息安全和计算机图形学知识。最喜欢的语言是Java，也喜欢Python和R。欢迎关注！
 
 - Language used: Java, Python, R, JavaScript, C, GoLang, SQL, C++, HTML, CSS, TypeScript
@@ -53,12 +52,12 @@ Contact: harold-ye (shift + 2) outlook.com
  <img src="https://user-images.githubusercontent.com/68500948/156462790-028ede58-6be5-4f23-a04a-e3721870c209.png" style="border-radius: 30px;" width="50">
  </div>
  
-### Something about Myself :
+### Something About Myself :
 <details>
  
-- 🔭 I’m currently working on getting a degree on CS and DS
-- 🌱 I will be working for Dell after graduation
-- ⚡ Fun fact: drawing was one of my hobbies during childhood and I got an international children award for drawing.
+- 🔭 I’m currently working in a company for storage products
+- 🌱 I will be going to the United Frostland after x years
+- ⚡ Fun fact: drawing was one of my hobbies during childhood and I got an international children's award for drawing.
 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harold-y&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

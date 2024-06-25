@@ -1,7 +1,7 @@
 ### Hi there 👋 你好！
 Hello! My name is Harold. Full stack developer, BS (Computer Science & Data Science) from UW-Madison, Former Dell intern; creator & member of <a href="https://github.com/WiscWebGroup">WiscWebGroup</a>. Currently working in (hacked) company. I know full-stack development, algorithms, data processing, machine learning, statistics, and computer networks. I also know a little bit about information security and computer graphics. My favorite language is Java. I also like Python and R. Welcome and I appreciate your follow and stars!<br><br>
 
-你好! 我是Harold，你也可以叫我阿冰。威斯康星大学麦迪逊分校学士，开发者，戴尔前实习生，@<a href="https://github.com/WiscWebGroup">WiscWebGroup</a>联合创建者。目前是在 (数据被清除) 公司工作。会全栈开发，算法，数据处理，机器学习，统计学，计算机网络；有一点信息安全和计算机图形学知识。最喜欢的语言是Java，也喜欢Python和R。欢迎关注！
+你好! 我是Harold，你也可以叫我阿冰。母校是威斯康星大学麦迪逊，开发者，戴尔前实习生，@<a href="https://github.com/WiscWebGroup">WiscWebGroup</a>联合创建者。目前是在 (数据被清除) 公司工作。会全栈开发，算法，数据处理，机器学习，统计学，计算机网络；有一点信息安全和计算机图形学知识。最喜欢的语言是Java，也喜欢Python和R。欢迎关注！
 
 - Language used: Java, Python, R, JavaScript, C, GoLang, SQL, C++, HTML, CSS, TypeScript
 - Frameworks:  Spring Boot, Spring Cloud, Tidyverse, Numpy, Pandas, PyTorch, React, Vue, JQuery, Gin, Three.js
